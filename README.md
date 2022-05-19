@@ -3,7 +3,8 @@ This project uses the DnD5e API. I'm receiving info on a requested spell from th
 
 Live Site: https://g-roid.github.io/dnd-spells/
 
-![alt tag](http://placecorgi.com/1200/650)
+<!-- ![alt tag](http://placecorgi.com/1200/650) -->
+![alt tag](https://g-roid.github.io/dnd-spells/img/thumb.png)
 ![picture of live site](https://g-roid.github.io/dnd-spells/)
 
 Demo:
